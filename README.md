@@ -10,7 +10,7 @@ USERID="UNIPAのログインユーザーID"\
 PASS="UNIPAのログインパスワード"\
 TOKEN＝"LINENotifyの"アクセストークン"\
 
-python unipa_automation.py
+python unipa_scr.py
 
 ## License
 
